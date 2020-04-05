@@ -1,0 +1,2 @@
+# ImageShare
+android cache folder 
